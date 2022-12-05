@@ -1,0 +1,44 @@
+body{
+    background: url("IMAGES/natural.jpg");
+    background-size: cover;
+    max-width: 100%;
+    max-height: 700px;
+    
+
+
+}
+li{
+    margin-top: 0;
+    display: inline;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-decoration: none;
+    max-width: 60px;
+    
+}
+ul{
+    margin-top: 5px;
+   display: inline; 
+   margin-left: 0px;
+   color: aqua;
+
+}
+ul:hover li{
+    color: rgb(255, 0, 200);
+}
+h2{
+    padding-top: 10px;
+    color: rgb(0, 17, 255);
+    margin: 30px 30px;
+}
+p{
+    margin-left: 40px;    
+    font-size: 32px;
+    color: rgb(0, 17, 255);
+}
+h3{
+    padding-left: 220px;
+    color: rgba(204, 4, 4, 0.897);
+    font-size: 40px;
+}

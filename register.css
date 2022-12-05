@@ -1,0 +1,73 @@
+body{
+    background: linear-gradient(to right,#9c27b0,#8ecdff);
+    max-width:  100%;
+    position: auto;
+    padding: 5px;
+}
+.form{
+    margin-top: 40px;
+    padding-left: 30%;
+    position: center;
+    font-size: 24px;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+    display: block;
+    max-width:800px;
+    
+
+
+}
+h1{
+    padding-left: 23%;
+
+}
+#fname{
+    border-radius: 20px;
+    width: 200px;
+    padding: 8px;
+    max-width: 150px;
+    max-height: 100%;
+
+    
+}
+#sname{
+    
+    color: aqua; 
+}
+ul li{
+    display: inline-block;
+    color: blue;
+    padding: 10px;
+
+
+}
+li{
+    color: aqua;
+}
+    
+
+
+
+#register{
+    
+    position: center;
+    border-radius: 20px;
+    margin-left: 15%;
+    margin-top: 30px;
+    font-size: 20px;
+    width: 80px;
+    
+}
+.gender{
+    
+    
+}
+#button{
+    padding-left: 40%;
+}
+p{
+    padding-left:-10%;
+}
+.nav{
+    margin-left: 240px;
+}

@@ -1,0 +1,62 @@
+body{
+    background-image: url("IMAGES/desk.jpg" );
+    background-size: cover;
+    max-width: 100%;
+    max-length:100% ;
+    background-repeat: no-repeat;
+        
+    }
+
+#links{
+    font-size: 20px;
+    font-weight: 200;
+    max-width: 50px;
+    max-height: 50px;
+
+}
+#links:hover{
+    color: rgb(255, 0, 0);
+    
+}
+#submit{
+        position: right;
+        border-radius: 15px;
+        margin-left: 50px;
+        margin-top: 20px;
+        font-size: 15px;
+        width: 40px;
+}
+.forms{
+    margin-left: 30%;
+    text-decoration: none;
+    padding-top: 10px;
+    max-width: 800px;
+    max-height: 500px;
+
+}
+ul{
+    padding-left: 30%;
+    padding-top: 20px;
+    max-width: 100px;
+}
+li{
+    color: white;
+    margin-right: 170px;
+    margin-left: 70px;
+}
+#links{
+    color: rgb(72, 224, 2);
+    
+    
+    
+
+}
+#sname{
+    padding: 7px;
+    width: 200px;
+    border-radius: 15px;
+}
+h1{
+    
+    color: rgb(5, 17, 190);
+}
